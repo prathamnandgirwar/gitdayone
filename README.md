@@ -1,5 +1,5 @@
 
-# $${\color{Blue} \textbf {Deploy Hotstar Clone on Cloud using Jenkins - DevSecOps Project!}}$$
+# $${\color{Blue} \textbf {Deploy Hotstar Clone on Cloud using Jenkins - DevOps Project!}}$$
 
 
 ## $${\color {red} \textbf {Phase 1: Initial Setup and Deployment}}$$
